@@ -5,3 +5,4 @@
 Ιστοριογραμμή μαθηματικών https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1113479 
 Παιχνίδι μνήμης με γυναίκες μαθηματικούς https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=875107
 Κουίζ στις κωνικές τομές https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=835912
+Κωνικές τομές κρυπτόλεξο https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=834415
